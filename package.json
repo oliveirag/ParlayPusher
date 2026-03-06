@@ -4,7 +4,8 @@
   "description": "Tracks a public PrizePicks user's open lineups and posts new entries to a Discord channel in real time.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "debug": "DEBUG_HTML=true node index.js"
   },
   "keywords": [],
   "author": "",

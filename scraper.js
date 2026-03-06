@@ -35,7 +35,7 @@ async function scrapeEntries(url) {
         console.warn("[scraper] Could not find lineup cards with primary selectors, trying fallback...");
       });
 
-    await page.waitForTimeout(2000);
+    await page.waitForTimeout(500);
 
     const html = await page.content();
 
