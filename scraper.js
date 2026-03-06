@@ -1,0 +1,1 @@
+{"type":"error","error":{"type":"not_found_error","message":"File not found in container: /mnt/user-data/outputs/prizepicks-bot/scraper.js","details":{"error_visibility":"user_facing"}},"request_id":"req_011CYkrP6Mn5fPshq1A8rMR3"}
